@@ -134,7 +134,6 @@ class CLI
       list - list all expenses
       delete NUMBER - remove expense with id NUMBER
       search QUERY - list expenses with a matching memo field
-      search QUERY - list expenses with a matching memo field
     HELP
   end
 end
